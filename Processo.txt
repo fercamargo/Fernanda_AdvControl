@@ -1,0 +1,4 @@
+idProcesso;int;15;ID Processo
+numeroAcao;String;45;Número da Ação
+dataCadastroProcesso;Date;Data de Cadastro
+situacaoPagamento;String;45;Situação de Pagamento

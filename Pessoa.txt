@@ -1,0 +1,6 @@
+idPessoa;int;15;ID Pessoa
+nomePessoa;String;45;Nome
+cpfPessoa;String;45;CPF
+telefonePessoa;String;45;Telefone
+dataCadastro;Date;Data de Cadastro
+sexo;boolean;JCheckBox;Feminino;Masculino;;Sexo

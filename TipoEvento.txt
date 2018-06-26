@@ -1,0 +1,2 @@
+idTipoEvento;int;15;ID Tipo do Evento
+nomeTipoEvento;String;45;Tipo do Evento

@@ -1,0 +1,7 @@
+﻿idAgenda;int;15;ID Agenda
+dataEvento;Date;Data do Evento
+horaInicio;String;20;Hora de Início
+horaTermino;String;20;Hora de Término
+processoIdProcesso;Dependente;ID do Processo;C:\Users\Fernanda\Desktop\Processo.txt
+advogadoPessoaIdPessoa;Dependente;ID Advogado;C:\Users\Fernanda\Desktop\Advogado.txt
+tipoEventoIdTipoEvento;Dependente;ID Tipo do Evento;C:\Users\Fernanda\Desktop\TipoEvento.txt

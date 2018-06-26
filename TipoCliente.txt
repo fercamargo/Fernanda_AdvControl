@@ -1,0 +1,2 @@
+clientePessoaIdPessoa;Dependente;ID Cliente;C:\Users\Fernanda\Desktop\Cliente.txt
+nomeTipoCliente;String;45;Tipo do Cliente

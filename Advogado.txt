@@ -1,0 +1,4 @@
+pessoaIdPessoa;Dependente;ID Pessoa;C:\Users\Fernanda\Desktop\Pessoa.txt
+NumeroOab;int;30;Número OAB
+email;String;45;E-mail
+senha;String;45;Senha

@@ -1,0 +1,2 @@
+pessoaIdPessoa;Dependente;ID Pessoa;C:\Users\Fernanda\Desktop\Pessoa.txt
+estadoCivilCliente;String;45;Estado Civil
